@@ -1,0 +1,62 @@
+What is Machine Learning?
+
+So what exactly is “machine learning” anyway? ML is actually a lot of things. 
+Best summed up by this statement made by Arthur Samuel way back in 1959: 
+“[Machine Learning is the] field of study that gives computers the ability to learn without being explicitly programmed.”
+
+Tom Mitchell gave a “well-posed” definition that has proven more useful to engineering types: 
+“A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E.”
+
+
+So if you want your program to predict, for example, traffic patterns at a busy intersection (task T), you can run it through a machine learning algorithm with data about past traffic patterns (experience E) and, if it has successfully “learned”, it will then do better at predicting future traffic patterns (performance measure P).
+
+The highly complex nature of many real-world problems, though, often means that inventing specialized algorithms that will solve them perfectly every time is impractical, if not impossible. Examples of machine learning problems include, “Is this cancer?”, “What is the market value of this house?”, “Which of these people are good friends with each other?”, “Will this rocket engine explode on take off?”, “Will this person like this movie?”, “Who is this?”, “What did you say?”, and “How do you fly this thing?”. All of these problems are excellent targets for an ML project, and in fact ML has been applied to each of them with great success.
+ML solves problems that cannot be solved by numerical means alone.
+
+Among the different types of ML tasks, a crucial distinction is drawn between supervised and unsupervised learning:
+
+   (a) Supervised machine learning: The program is “trained” on a pre-defined set of “training examples”, which then facilitate its ability to reach an accurate conclusion when given new data.
+   (b) Unsupervised machine learning: The program is given a bunch of data and must find patterns and relationships therein.
+
+We will primarily focus on supervised learning here, but the end of the article includes a brief discussion of unsupervised learning with some links for those who are interested in pursuing the topic further.
+
+Supervised Machine Learning
+
+In supervised learning applications, the ultimate goal is to develop a predictor function h(x) [sometimes called hypothesis]
+
+"Learning" is the process where sophisticated mathematical algorithms are used to optimize this function so that given a particular data 'x', the function will accurately predict the value h(x)
+
+
+where 
+
+and 
+
+are constants. 
+
+Our goal is to find the perfect values of the constants to make our predictor work as well as possible.
+
+Using training examples, we can optimize the predictor h(x). 
+For each training example, we have x_train (input) and y (output).
+'y' is already known to us in advance in case of supervised learning.
+Once we build our model; for each training example, we find the difference between y and h(x_train).
+With enough training examples, these differences can gives us a meaningful measure of the "wrongness" of h(x).
+We can then tweak h(x) by tweaking the values of the coefficients a,b in h(x) = ax+b, to make h(x) "less wrong".
+											
+												
+
+This process is repeated over and over until the system has converges on the best values for the coefficients. In this way a predictor becomes trained and is ready for 'real-world' predicting.
+
+We stick to simple problems in this post for the sake of illustration, but the reason ML exists is because, in the real world, the problems are much more complex. On this flat screen we can draw you a picture of, at most, a three-dimensional data set, but ML problems commonly deal with data with millions of dimensions, and very complex predictor functions. ML solves problems that cannot be solved by numerical means alone.
+
+First, notice that the data is a little noisy. 
+That is, while we can see that there is a pattern to it (i.e. employee satisfaction tends to go up as salary goes up), it does not all fit neatly on a straight line. This will always be the case with real-world data. So then how can we train a machine to perfectly predict an employee’s level of satisfaction? 
+
+The answer, of course, is that we can’t. The goal of ML is never to make “perfect” guesses. The goal is to make guesses that are good enough to be useful.
+
+Machine Learning builds heavily on statistics. For example, when we train our machine to learn, we have to give it a statistically significant random sample as training data. If the training set is not random, we run the risk of the machine learning patterns that aren’t actually there. And if the training set is too small (see law of large numbers), we won’t learn enough and may even reach inaccurate conclusions. For example, attempting to predict company-wide satisfaction patterns based on data from upper management alone would likely be error-prone.
+
+
+With this understanding, let’s give our machine the data we’ve been given above and have it learn it. First we have to initialize our predictor h(x) with some reasonable values of theta 0 and theta 1. Now our predictor looks like this when placed over our training set:
+
+
+https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
