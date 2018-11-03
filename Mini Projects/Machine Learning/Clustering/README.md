@@ -1,3 +1,3 @@
 # Clustering on `Wine` dataset
 
-The goal of this project is to cluster the `Red Wine Dataset` (csv file) using K-Means clustering and dimensionality reduction ('Principal Component Analysis') along with metrics such as 'Sum-of-Squares' and 'Silhoutte Coefficients' 
+The goal of this project is to cluster the `Red Wine Dataset` (csv file) using K-Means clustering and dimensionality reduction ('Principal Component Analysis') along with metrics such as 'Sum-of-Squares' and 'Silhoutte Coefficients'. Other Clustering Algorithms such as Affinity propagation, Spectral clustering, Agglomerative clustering and DBSCAN are also explored i this project.
