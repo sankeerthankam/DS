@@ -1,9 +1,11 @@
-# Milestone Report
+# Bank Marketing Dataset for Capstone 1.
 
-This repository consists of Milestone Report (a draft of Capstone 1) that addresses the following:
+This repository contains Milestone Report of Capstone 1 (Bank Marketing Dataset)
 
-1. Define the problem
-2. Identify your client
-3. Describe your data set, and how you cleaned/wrangled it
-4. List other potential data sets you could use
-5. Explain your initial findings
+|Subject Area Addressed|
+|:---|
+Problem
+Client
+Dataset
+Inferences
+Other potential Datasets
