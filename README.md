@@ -12,4 +12,4 @@
 | | 3. Movie Ratings Dataset (Naiive Bayes) |
 | | 4. Customer Segmentation Dataset (Clustering) |
 | Capstone 1 | Bank Marketing Dataset |
-| Capstone 2 | Walmart Sales Dataset |
+| Capstone 2 | Movie Lens |
