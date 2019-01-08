@@ -15,4 +15,4 @@ http://github.com - automatic!
 | | 3. [Movie Ratings Dataset (Naiive Bayes)] (https://github.com/sankeerthankam/Data-Science/blob/master/Mini%20Projects/Machine%20Learning/Naive%20Bayes/Naive%20Bayes.ipynb)
 | | 4. [Customer Segmentation Dataset (Clustering)] (https://github.com/sankeerthankam/Data-Science/blob/master/Mini%20Projects/Machine%20Learning/Clustering/Clustering.ipynb)
 | Capstone 1 | [Bank Marketing Dataset] (https://github.com/sankeerthankam/Data-Science/blob/master/Capstone%201/Capstone%201.ipynb) 
-| Capstone 2 | [Movie Lens ] (https://github.com/sankeerthankam/Data-Science/blob/master/Capstone%202/Recommendation%20System.ipynb)
+| Capstone 2 | [Movie Lens ] (https://github.com/sankeerthankam/Data-Science/blob/master/Capstone%202/Recommendation%20System)
