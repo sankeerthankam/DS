@@ -3,6 +3,8 @@
 http://github.com - automatic!
 [GitHub](http://github.com)
 
+[Yammer Database](https://github.com/sankeerthankam/Data-Science/blob/master/Mini%20Projects/SQL%20Case%20Study/Yammer%20Case%20Study%20Analysis%20Report.pdf)
+
 |Topic|Project
 | --- | --- 
 | Data Analysis | [Yammer Database] (https://github.com/sankeerthankam/Data-Science/blob/master/Mini%20Projects/SQL%20Case%20Study/Yammer%20Case%20Study%20Analysis%20Report.pdf)
@@ -14,5 +16,5 @@ http://github.com - automatic!
 | | 2. [Gender Classfication Dataset (Logistic Regression)] (https://github.com/sankeerthankam/Data-Science/blob/master/Mini%20Projects/Machine%20Learning/Logistic%20Regression/Logistic%20Regression.ipynb)
 | | 3. [Movie Ratings Dataset (Naiive Bayes)] (https://github.com/sankeerthankam/Data-Science/blob/master/Mini%20Projects/Machine%20Learning/Naive%20Bayes/Naive%20Bayes.ipynb)
 | | 4. [Customer Segmentation Dataset (Clustering)] (https://github.com/sankeerthankam/Data-Science/blob/master/Mini%20Projects/Machine%20Learning/Clustering/Clustering.ipynb)
-| Capstone 1 | [Bank Marketing Dataset] (Data-Science/blob/master/Capstone%201/Capstone%201.ipynb) 
+| Capstone 1 | [Bank Marketing Dataset] (https://github.com/sankeerthankam/Data-Science/blob/master/Capstone%201/Capstone%201.ipynb) 
 | Capstone 2 | [Movie Lens ] (https://github.com/sankeerthankam/Data-Science/blob/master/Capstone%202/Recommendation%20System.ipynb)
