@@ -1,4 +1,4 @@
-# Data Science Career 
+# Data Science Projects 
 
 |Topic|Project|
 | --- | --- |
