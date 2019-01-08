@@ -14,5 +14,5 @@ http://github.com - automatic!
 | | 2. Gender Classfication Dataset (Logistic Regression) 
 | | 3. Movie Ratings Dataset (Naiive Bayes) 
 | | 4. Customer Segmentation Dataset (Clustering) 
-| Capstone 1 | [Bank Marketing Dataset] (../blob/master/Capstone%201/Capstone%201.ipynb) 
+| Capstone 1 | [Bank Marketing Dataset] (https://github.com/sankeerthankam/Data-Science/blob/master/Capstone%201/Capstone%201.ipynb) 
 | Capstone 2 | Movie Lens 
