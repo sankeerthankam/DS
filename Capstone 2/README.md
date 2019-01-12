@@ -1,4 +1,4 @@
-# A Guide to Selecting Your Next Craft Beer
+# Recommendation Engine using Movie Lens Data
 ---
 ### Objective
 The objective of this project is to build a recommendation system using `content-based` and `collaborative-filtering`. 
