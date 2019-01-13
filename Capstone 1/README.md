@@ -20,4 +20,4 @@ Below are the detailed jupyter notebooks with their respective tasks
 - [Applying Machine Learning](https://github.com/sankeerthankam/Data-Science/blob/master/Capstone%201/Milestone%20Notebooks/5%20-%20Applying%20Machine%20Learning.ipynb) - Applying Machine Learning
 
 ### Deliverables
-Jupyter Notebooks, Full Project Report, Mini Report and Presentation.
+[Jupyter Notebooks](https://github.com/sankeerthankam/Data-Science/tree/master/Capstone%201/Milestone%20Notebooks), [Full Project Report](https://github.com/sankeerthankam/Data-Science/blob/master/Capstone%201/Project%20Report/Full%20Report/Full%20Report.pdf), [Mini Report](https://github.com/sankeerthankam/Data-Science/blob/master/Capstone%201/Project%20Report/Mini%20Report/Mini%20Report.pdf), [Summary](https://github.com/sankeerthankam/Data-Science/blob/master/Capstone%201/Project%20Report/Summary/Summary.pdf) and [Presentation]().
