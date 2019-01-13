@@ -9,7 +9,7 @@ The [data]( https://archive.ics.uci.edu/ml/datasets/Bank+Marketing) is related w
 ### Approach
 The goal of this project is to “Predict if the client will subscribe a term deposit.”  Below are the jupyter notebooks and their respective tasks.
 
-Capstone 1 - Complete code of the project
+[Capstone 1](https://github.com/sankeerthankam/Data-Science/blob/master/Capstone%201/Capstone%201.ipynb) - Complete code of the project
 
 Below are the detailed jupyter notebooks with their respective tasks 
 
