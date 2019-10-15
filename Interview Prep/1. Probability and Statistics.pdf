@@ -1,0 +1,34 @@
+Probability is the determining factor in Predictive Analytics.
+
+There are basically two hypothesis.
+
+    Null
+    Alternative
+
+Null Hypothesis : There is no significant difference between specified population
+
+Alternative Hypothesis: There is significant difference
+
+How do we determine which hypothesis to accept?
+
+If p <= 0.05 we reject Null Hypothesis
+
+If p > 0.05 we accept Null Hypothesis
+
+So, what does accepting or rejecting an hypothesis mean?
+
+If we accept Null Hypothesis, it means the value or the feature or independent variable, doesn't help us in predicting the dependent or target variable.
+
+If we reject Null Hypothesis, it means that particular feature will help us in predicting the dependent or target variable a.k.a label.
+
+So, how do we calculate the p-value?
+
+We get the p-value by analysing the summary of linear relation formed between the features(independent variable (Xs)) and target(dependent variable(y)).
+
+The linear regression will try to form a relation between these variables through a straight line, using the formula:
+
+y = m*X +B
+
+The points that are nearer to regression line or on the regression line are most significant and they have the p <=0.05 so we consider them as features that are required to predict y.
+
+The points that are further away from regression line are the non-significant one, with p>0.05 so these values are not required to predict target variable y.
