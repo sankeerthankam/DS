@@ -15,5 +15,5 @@ http://github.com - automatic!
 | | 2. [Gender Classfication Dataset (Logistic Regression)](https://github.com/sankeerthankam/Data-Science/blob/master/Mini%20Projects/Machine%20Learning/Logistic%20Regression/Logistic%20Regression.ipynb)
 | | 3. [Movie Ratings Dataset (Naiive Bayes)](https://github.com/sankeerthankam/Data-Science/blob/master/Mini%20Projects/Machine%20Learning/Naive%20Bayes/Naive%20Bayes.ipynb)
 | | 4. [Customer Segmentation Dataset (Clustering)](https://github.com/sankeerthankam/Data-Science/blob/master/Mini%20Projects/Machine%20Learning/Clustering/Clustering.ipynb)
-| Capstone 1 | [Bank Marketing Dataset](https://github.com/sankeerthankam/Data-Science/tree/master/Capstone%201) 
+| Capstone 1 | [Customer Response Prediction on Bank Marketing Dataset](https://github.com/sankeerthankam/Data-Science/tree/master/Capstone%201) 
 | Capstone 2 | [Recommendation Engine on Movie Lens Dataset](https://github.com/sankeerthankam/Data-Science/tree/master/Capstone%202)
